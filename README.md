@@ -5,5 +5,3 @@ jose roque
 
 Samuel Medina
 
-Edwin R
-
