@@ -1,3 +1,7 @@
-# Redes_I_Proyecto
+# Redes\_I\_Proyecto
+
 Proyecto de Redes I Sab 7am
-jose roque 
+jose roque
+
+Samuel Medina
+
