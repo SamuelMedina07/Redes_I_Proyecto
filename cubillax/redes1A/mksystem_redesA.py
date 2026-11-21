@@ -16,6 +16,9 @@ v0.geometry("1000x500+0+0")
 # zona de funciones
 def clean():
             name.set('')
+            ipaddress.set('')
+            interface.set('')
+            comment.set('')
 
 def save_name():
                 print("Routername...")
@@ -53,6 +56,39 @@ def Query_name():
                  area1.place(x=10,y=120)
                  area1.insert(END,valor)     
 
+def save_ip():
+              ip=str(ipaddress.get())
+              ether=str(interface.get())
+              comm=str(comment.get())
+              enc="#!/bin/bash"
+              tab=" "
+              cs="'"
+              conexion='sshpass -p "1234567" ssh -l admin 192.168.88.200'
+              com1="ip address add address="
+              com2="interface="
+              com3="comment="
+
+              cadena1=(str(conexion)+''+str(tab)+''+str(cs)+''+str(com1)+''+str(ip)+''+str(tab)+''+str(com2)+''+str(ether)+''+str(tab)+''+str(com3)+''+str(comm)+''+str(cs))
+
+              os.system("sudo touch /home/cubillax/redes1A/ipaddress.sh")
+              os.system("sudoo chmod -R 777 /home/cubillax/redes1A/ipaddress.sh")
+
+              pf=open("/home/cubillax/redes1A/ipaddress.sh","w")
+              pf.write(enc)
+              pf.write("\n")
+              pf.write(cadena1)
+              pf.write("\n")
+              pf.close()
+              
+              time.sleep(0.1)
+
+              os.system("sudo /./home/cubillax/redes1A/ipaddress.sh")
+              clean()
+              messagebox.showinfo("INFO",message="DIRECCION IP CONFIGURADA")
+
+
+              
+
 # Tipo de Fuente
 text1=font.Font(family="Arial",size=20)
 text2=font.Font(family="Arial",size=12)
@@ -81,6 +117,7 @@ txt_com=Entry(v0,textvariable=comment,width=20).place(x=160,y=160)
 # Boton
 btn_name=Button(v0,text="Consultar_name",bg="blue",fg="white",command=Query_name).place(x=850,y=40)
 btn_save_name=Button(v0,text="Save",bg="red",command=save_name).place(x=430,y=50)
+btn_saveIP=Button(v0,text="Save_IP",bg="red",command=save_ip).place(x=430,y=130)
 # IP ADDRESS
 
 
