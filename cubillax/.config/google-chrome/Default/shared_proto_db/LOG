@@ -1,0 +1,5 @@
+2026/11/19-19:03:39.759 dbe Recovering log #106
+2026/11/19-19:03:39.762 dbe Level-0 table #109: started
+2026/11/19-19:03:39.791 dbe Level-0 table #109: 8564 bytes OK
+2026/11/19-19:03:39.827 dbe Delete type=0 #106
+2026/11/19-19:03:39.827 dbe Delete type=3 #104

@@ -1,0 +1,6 @@
+Columns: NAME, RANGES
+#  NAME           RANGES                     
+0  pool_prueba    192.168.50.2-192.168.50.100
+1  pool_unah      192.168.30.2-192.168.30.150
+2  pool_sistemas  10.0.0.2-10.0.0.50         
+

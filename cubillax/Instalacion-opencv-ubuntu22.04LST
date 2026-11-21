@@ -1,0 +1,7 @@
+sudo apt install wget apt-transport-https gnupg2 software-properties-common
+sudo apt install python3-opencv libopencv-dev
+sudo apt install python3-pip
+pip install opencv-python
+pip3 install imutils
+
+

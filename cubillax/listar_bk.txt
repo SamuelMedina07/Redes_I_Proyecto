@@ -1,0 +1,6 @@
+total 120
+-rw-r--r-- 1 root root 22340 nov 10 10:53 respaldo_20261110_1053.backup
+-rw-r--r-- 1 root root 22340 nov 10 10:54 respaldo_20261110_1054.backup
+-rw-r--r-- 1 root root 22340 nov 10 10:55 respaldo_20261110_1055.backup
+-rw-r--r-- 1 root root 22340 nov 12 10:46 respaldo_20261112_1045.backup
+-rw-r--r-- 1 root root 22340 nov 18 10:35 respaldo_20261118_1035.backup

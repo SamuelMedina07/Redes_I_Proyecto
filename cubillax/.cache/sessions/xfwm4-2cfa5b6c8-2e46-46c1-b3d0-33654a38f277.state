@@ -1,0 +1,51 @@
+[CLIENT] 0x28009b8
+  [RES_NAME] !listedtoplevel2
+  [RES_CLASS] Toplevel
+  [WM_NAME] mikroti2026.py - /home/cubillax/mikroti2026.py (3.10.12)
+  [GEOMETRY] (0,51,1364,717)
+  [GEOMETRY-MAXIMIZED] (88,76,861,814)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x280c52c
+  [RES_NAME] !customrun
+  [RES_CLASS] Toplevel
+  [WM_NAME] Customize mikroti2026.py Run
+  [GEOMETRY] (797,365,291,161)
+  [GEOMETRY-MAXIMIZED] (797,365,291,161)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x280c4bc
+  [RES_NAME] !listedtoplevel5
+  [RES_CLASS] Toplevel
+  [WM_NAME] IDLE Shell 3.10.12
+  [GEOMETRY] (494,56,865,707)
+  [GEOMETRY-MAXIMIZED] (494,56,865,814)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10100
+[CLIENT] 0x2e00006
+  [CLIENT_LEADER] 0x2e00001
+  [WINDOW_ROLE] gnome-terminal-window-08a0d9df-742d-423b-acad-b939b068fa53
+  [RES_NAME] gnome-terminal-server
+  [RES_CLASS] Gnome-terminal
+  [WM_NAME] root@server: /home/cubillax
+  [WM_COMMAND] (1) "gnome-terminal-server"
+  [GEOMETRY] (182,118,737,459)
+  [GEOMETRY-MAXIMIZED] (182,118,737,459)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x2e00275
+  [CLIENT_LEADER] 0x2e00001
+  [WINDOW_ROLE] gnome-terminal-window-bea5efea-3679-453a-8442-f37bf9e0579b
+  [RES_NAME] gnome-terminal-server
+  [RES_CLASS] Gnome-terminal
+  [WM_NAME] root@server: /home/cubillax
+  [WM_COMMAND] (1) "gnome-terminal-server"
+  [GEOMETRY] (0,51,1364,717)
+  [GEOMETRY-MAXIMIZED] (336,184,737,459)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300

@@ -1,0 +1,6 @@
+Columns: NAME, INTERFACE, ADDRESS-POOL, LEASE-TIME
+# NAME           INTERFACE  ADDRESS-POOL   LEASE-TIME
+0 dhcp_prueba    ether3     pool_prueba    1d        
+1 dhcp_unah      ether4     pool_unah      1d        
+2 pool_sistemas  ether2     pool_sistemas  1d        
+

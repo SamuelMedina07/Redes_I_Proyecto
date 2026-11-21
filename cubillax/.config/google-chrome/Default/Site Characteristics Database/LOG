@@ -1,0 +1,5 @@
+2026/11/19-19:03:39.406 dcb Recovering log #90
+2026/11/19-19:03:39.406 dcb Level-0 table #92: started
+2026/11/19-19:03:39.444 dcb Level-0 table #92: 162 bytes OK
+2026/11/19-19:03:39.540 dcb Delete type=0 #90
+2026/11/19-19:03:39.540 dcb Delete type=3 #88

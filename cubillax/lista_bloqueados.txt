@@ -1,0 +1,16 @@
+Status: active
+
+To                         Action      From
+--                         ------      ----
+3389                       ALLOW       Anywhere                  
+80                         ALLOW       Anywhere                  
+22                         ALLOW       Anywhere                  
+443                        ALLOW       Anywhere                  
+53                         ALLOW       Anywhere                  
+443 (v6)                   ALLOW       Anywhere (v6)             
+53 (v6)                    ALLOW       Anywhere (v6)             
+
+3.18.41.210 80/tcp         DENY OUT    Anywhere                  
+3.18.41.210 443/tcp        DENY OUT    Anywhere                  
+3.18.41.210 443/udp        DENY OUT    Anywhere                  
+

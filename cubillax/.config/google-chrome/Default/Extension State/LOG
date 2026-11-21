@@ -1,0 +1,5 @@
+2026/11/19-19:03:41.124 dbf Recovering log #69
+2026/11/19-19:03:41.124 dbf Level-0 table #71: started
+2026/11/19-19:03:41.124 dbf Level-0 table #71: 0 bytes OK
+2026/11/19-19:03:41.166 dbf Delete type=0 #69
+2026/11/19-19:03:41.166 dbf Delete type=3 #68

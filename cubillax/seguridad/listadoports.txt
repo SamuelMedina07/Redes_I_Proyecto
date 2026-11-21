@@ -1,0 +1,12 @@
+Status: active
+
+     To                         Action      From
+     --                         ------      ----
+[ 1] 3389                       ALLOW IN    Anywhere                  
+[ 2] 80                         ALLOW IN    Anywhere                  
+[ 3] 22                         ALLOW IN    Anywhere                  
+[ 4] 443                        ALLOW IN    Anywhere                  
+[ 5] 53                         ALLOW IN    Anywhere                  
+[ 6] 443 (v6)                   ALLOW IN    Anywhere (v6)             
+[ 7] 53 (v6)                    ALLOW IN    Anywhere (v6)             
+

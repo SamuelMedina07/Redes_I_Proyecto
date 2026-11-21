@@ -1,0 +1,13 @@
+2026/11/19-19:03:39.398 dbf Recovering log #70
+2026/11/19-19:03:39.398 dbf Level-0 table #72: started
+2026/11/19-19:03:39.413 dbf Level-0 table #72: 633 bytes OK
+2026/11/19-19:03:39.518 dbf Delete type=3 #69
+2026/11/19-19:03:39.518 dbf Delete type=0 #70
+2026/11/19-19:03:39.518 dbf Compacting 4@0 + 0@1 files
+2026/11/19-19:03:39.562 dbf Generated table #74@0: 27 keys, 1782 bytes
+2026/11/19-19:03:39.562 dbf Compacted 4@0 + 0@1 files => 1782 bytes
+2026/11/19-19:03:39.610 dbf compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/11/19-19:03:39.610 dbf Delete type=2 #5
+2026/11/19-19:03:39.610 dbf Delete type=2 #15
+2026/11/19-19:03:39.610 dbf Delete type=2 #8
+2026/11/19-19:03:39.610 dbf Delete type=2 #72

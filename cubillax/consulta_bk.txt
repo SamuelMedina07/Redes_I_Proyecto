@@ -1,0 +1,8 @@
+total 168
+-rw-r--r-- 1 root root 22340 nov  7 15:46 backup_20261107_1546.backup
+-rw-r--r-- 1 root root 22340 nov  7 15:47 backup_20261107_1547.backup
+-rw-r--r-- 1 root root 22340 nov  7 16:00 backup_20261107_1600.backup
+-rw-r--r-- 1 root root 22340 nov  7 16:11 backup_20261107_1611.backup
+-rw-r--r-- 1 root root 22340 nov  7 16:12 backup_20261107_1612.backup
+-rw-r--r-- 1 root root 22340 nov  7 16:13 backup_20261107_1613.backup
+-rw-r--r-- 1 root root 22340 nov  7 16:14 backup_20261107_1614.backup
